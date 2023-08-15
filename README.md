@@ -44,7 +44,7 @@ This Project is created with:
 <p align="center">
   <img src="https://github.com/amaan-ai/ChatFact-Verify-the-Reliability-of-Your-Messages-with-AI/blob/main/images/ChatFact_AI_response.png" alt="Whatsapp message sample"/>
   <br>
-  <em>Fig. 3: ChatFact AI tool response</em>
+  <em>Fig. 3: AccuCheck AI tool response</em>
 </p>
 <br>
 <br>
