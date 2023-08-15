@@ -1,6 +1,6 @@
 # AccuCheck-AI-Fact-Checking-Messages-using-LLM
 
-Try [ChatFact tool](https://amaan-ai-chatfact-verify-the-reliability-of-your-mes-app-y6xhqt.streamlit.app/)
+//Try [ChatFact tool](https://amaan-ai-chatfact-verify-the-reliability-of-your-mes-app-y6xhqt.streamlit.app/)
 
 ## Motivation 
 
@@ -18,11 +18,11 @@ This Project is created with:
 
 <a id="illustrations"></a>
 ## Illustrations  
-#### Below is the snap of ChatFact AI tool
+#### Below is the snap of AccuCheck AI tool
 <p align="center">
   <img src="https://github.com/amaan-ai/ChatFact-Verify-the-Reliability-of-Your-Messages-with-AI/blob/main/images/ChatFact_AI_tool.png" />
   <br>
-  <em>Fig. 1: ChatFact AI tool</em>
+  <em>Fig. 1: AccuCheck AI tool</em>
 </p>
 
 <br>
@@ -39,7 +39,7 @@ This Project is created with:
 <br>
 
 
-#### A sample response of ChatFact AI tool
+#### A sample response of AccuCheck AI tool
 
 <p align="center">
   <img src="https://github.com/amaan-ai/ChatFact-Verify-the-Reliability-of-Your-Messages-with-AI/blob/main/images/ChatFact_AI_response.png" alt="Whatsapp message sample"/>
