@@ -1,4 +1,4 @@
-# ChatFact-Verify-the-Reliability-of-Your-Messages-with-AI
+# AccuCheck-AI-Fact-Checking-Messages-using-LLM
 
 Try [ChatFact tool](https://amaan-ai-chatfact-verify-the-reliability-of-your-mes-app-y6xhqt.streamlit.app/)
 
