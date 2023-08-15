@@ -4,11 +4,11 @@
 
 ## Motivation 
 
-* The proliferation of messaging apps has made it easier than ever to share information with friends and family. However, the downside to this convenience is the spread of misinformation. False information can quickly spread and lead to unnecessary panic and confusion. In some cases, it can even have serious consequences.
+* The rise of messaging apps has simplified the sharing of information among peers and loved ones. Nonetheless, this convenience comes with a drawback: the rapid dissemination of misinformation. The circulation of inaccurate data has the potential to swiftly propagate, triggering unwarranted anxiety and uncertainty. In certain instances, the ramifications can be notably severe.
 
-* To combat this problem, it is important to have a reliable tool to check the veracity of forwarded messages. That's where this application comes in. By leveraging the power of AI and natural language processing, it can quickly determine whether a message is credible or not.
+* Addressing this issue necessitates the presence of a dependable solution for validating the accuracy of shared messages. This is precisely where this application proves its worth. Through harnessing the capabilities of AI and natural language processing, it promptly assesses the credibility of messages, distinguishing between those that are trustworthy and those that are not.
 
-* The motivation behind this project is to provide a simple and accessible solution to help people fact-check the information they receive on messaging apps. By promoting responsible information sharing, we can help prevent the spread of false information and ensure that people have access to accurate and reliable information.
+* This project is driven by the aspiration to offer an uncomplicated and easily attainable remedy, enabling individuals to verify the information they encounter via messaging apps. By fostering a culture of prudent information validation, we contribute to thwarting the propagation of inaccurate details. Our goal is to guarantee that individuals can access precise and dependable information.
 
 ## Technologies & Framework  
 This Project is created with:
