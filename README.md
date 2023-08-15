@@ -1,6 +1,6 @@
 # AccuCheck-AI-Fact-Checking-Messages-using-LLM
 
-<!-- Try [ChatFact tool](https://amaan-ai-chatfact-verify-the-reliability-of-your-mes-app-y6xhqt.streamlit.app/) -->
+Try [ChatFact tool](https://accucheck-ai-fact-checking-messages-using-llm-eyba68lhvvvkjkcp.streamlit.app)
 
 ## Motivation 
 
